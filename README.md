@@ -1,12 +1,3 @@
-## At the intersection of game development, tool development and reverse engineering
+# intns
 
-<div align="center">
-  
-  <a href="https://github.com/intns?tab=repositories">
-    <img align="center" style="height:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intns&theme=aura" />
-  </a>
-  
-  <a href="https://github.com/intns?tab=repositories">
-    <img align="center" style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=intns&show_icons=true&theme=aura" /> <br>
-  </a>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=intns&theme=aura&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
